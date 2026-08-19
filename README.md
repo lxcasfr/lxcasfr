@@ -9,6 +9,6 @@
 
 ### currently
 
-https://bandz.rip
-https://wrecked.wtf
+https://bandz.rip biolink
+https://wrecked.wtf ai
 
