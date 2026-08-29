@@ -6,11 +6,10 @@
 
 ### stuff i use
 
-`C++` · `HTML` · `CSS` · `JavaScript`
+`C++`
 
 ### currently
 
  [bandz.rip](https://bandz.rip) — biolink  
- [wrecked.wtf](https://wrecked.wtf) — AI
 
 <br>
